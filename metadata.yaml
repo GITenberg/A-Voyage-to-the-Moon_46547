@@ -1,0 +1,29 @@
+_repo: A-Voyage-to-the-Moon_46547
+contributor:
+  contributor:
+    agent_name: Page, Curtis Hidden
+    alias: Page, C. H. (Curtis Hidden)
+    birthdate: 1870
+    deathdate: 1946
+    gutenberg_agent_id: '32415'
+    url: http://www.gutenberg.org/2009/agents/32415
+  translator:
+    agent_name: Lovell, Archibald
+    gutenberg_agent_id: '43843'
+    url: http://www.gutenberg.org/2009/agents/43843
+creator:
+  author:
+    agent_name: Bergerac, Cyrano de
+    gutenberg_agent_id: '43842'
+    url: http://www.gutenberg.org/2009/agents/43842
+description: ''
+gutenberg_issued: '2014-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: A Voyage to the Moon
+url: http://www.gutenberg.org/ebooks/46547
